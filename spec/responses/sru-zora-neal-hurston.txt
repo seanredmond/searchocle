@@ -1,0 +1,726 @@
+HTTP/1.1 200 OK
+Date: Fri, 11 May 2018 14:07:31 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/xml;charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='/webservices/catalog/xsl/searchRetrieveResponse.xsl'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>39</numberOfRecords>
+<records>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">30594426</controlfield>
+    <controlfield tag="008">940518s1995    nyu      b    000 1 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   94025757 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Works.</subfield>
+      <subfield code="k">Selections.</subfield>
+      <subfield code="f">1995</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[New York] :</subfield>
+      <subfield code="b">Library of America :</subfield>
+      <subfield code="b">Distributed to trade in the U.S. by Penguin Books,</subfield>
+      <subfield code="c">©1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1041 pages ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Jonah's gourd vine -- Their eyes were watching God -- Moses, man of the mountain -- Seraph on the Suwanne -- Selected stories. John Redding goes to sea ; Drenched in light ; Spunk ; Sweat ; The bone of contention ; Book of Harlem ; The gilded six-bits ; The fire and the cloud ; Story in Harlem slang.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Part of a two-volume set of works by Zora Neale Hurston, Novels and Stories features the acclaimed 1937 novel Their Eyes Were Watching God-- plus Jonah's Gourd Vine, Moses Man of the Mountain, Seraph on the Suwanee, and selected stories. Includes a newly researched chronology of Hurston's life, detailed notes, and a brief essay on the texts.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Jonah's gourd vine.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Their eyes were watching God.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Noirs américains</subfield>
+      <subfield code="x">Romans.</subfield>
+      <subfield code="2">ram</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="x">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="650">
+      <subfield code="a">Literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="x">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Novela estadounidense</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Novela afroamericana</subfield>
+      <subfield code="x">Colecciones.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Short stories.</subfield>
+      <subfield code="2">gsafd</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Table of contents</subfield>
+      <subfield code="u">http://www.gbv.de/dms/bowker/toc/9780940450837.pdf</subfield>
+    </datafield>
+    <datafield ind1="4" ind2=" " tag="856">
+      <subfield code="u">http://www.teenreads.com/authors/au-hurston-zora.asp</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ka 4500</leader>
+    <controlfield tag="001">623267368</controlfield>
+    <controlfield tag="008">100519s1995    nyu     ob    000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Works.</subfield>
+      <subfield code="k">Selections.</subfield>
+      <subfield code="f">1995</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, N.Y. :</subfield>
+      <subfield code="b">Library of America :</subfield>
+      <subfield code="b">Distributed to trade in the U.S. by Penguin Books,</subfield>
+      <subfield code="c">©1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 online resource (1041 pages).</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The Library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="505">
+      <subfield code="t">Jonah's gourd vine --</subfield>
+      <subfield code="t">Their eyes were watching God --</subfield>
+      <subfield code="t">Moses, man of the mountain --</subfield>
+      <subfield code="t">Seraph on the Suwanee --</subfield>
+      <subfield code="t">Selected stories:</subfield>
+      <subfield code="t">John Redding goes to sea ;</subfield>
+      <subfield code="t">Drenched in light ;</subfield>
+      <subfield code="t">Spunk ;</subfield>
+      <subfield code="t">Sweat ;</subfield>
+      <subfield code="t">The bone of contention ;</subfield>
+      <subfield code="t">Book of Harlem ;</subfield>
+      <subfield code="t">The gilded six-bits ;</subfield>
+      <subfield code="t">The fire and the cloud ;</subfield>
+      <subfield code="t">Story in Harlem slang.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Part of a two-volume set of works by Zora Neale Hurston, Novels and Stories features the acclaimed 1937 novel Their Eyes Were Watching God-- plus Jonah's Gourd Vine, Moses Man of the Mountain, Seraph on the Suwanee, and selected stories. Includes a newly researched chronology of Hurston's life, detailed notes, and a brief essay on the texts.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.</subfield>
+      <subfield code="u">http://purl.oclc.org/DLF/benchrepro0212</subfield>
+      <subfield code="5">MiAaHDL</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="600">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Jonah's gourd vine.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="630">
+      <subfield code="a">Their eyes were watching God.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=ROBaAAAAMAAJ</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">Google</subfield>
+      <subfield code="u">http://books.google.com/books?id=RIhmAAAAMAAJ</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="0" tag="856">
+      <subfield code="3">HathiTrust Digital Library, Limited view (search only)</subfield>
+      <subfield code="u">http://catalog.hathitrust.org/api/volumes/oclc/30594426.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">863609385</controlfield>
+    <controlfield tag="008">950311s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   94025757 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Library of America,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">10 39 pages.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Jonah's gourd vine -- Their eyes were watching God -- Moses, man of the mountain -- Seraph on the Suwanne -- Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799703</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">466116576</controlfield>
+    <controlfield tag="008">120419s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">The Library of America,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1041 s.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Indhold: Jonah's gourd vine; Their eyes were watching God; Moses, man of the mountain; Seraph on the Suwanne; Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799558</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799703</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">793421575</controlfield>
+    <controlfield tag="008">960726s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   09425757 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Works.</subfield>
+      <subfield code="k">Selections.</subfield>
+      <subfield code="f">1995</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Library of America,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1,041 pages ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Library of America</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Jonah's gourd vine -- Their eyes were watching God -- Moses, man of the mountain -- Seraph on the Suwanne -- Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Part of a two-volume set of works by Zora Neale Hurston, Novels and Stories features the acclaimed 1937 novel Their Eyes Were Watching God-- plus Jonah's Gourd Vine, Moses Man of the Mountain, Seraph on the Suwanee, and selected stories. Includes a newly researched chronology of Hurston's life, detailed notes, and a brief essay on the texts.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799703</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">318463497</controlfield>
+    <controlfield tag="008">970711s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   94025757 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale,</subfield>
+      <subfield code="d">1901-1960.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Selecciones.</subfield>
+      <subfield code="f">1995</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Library of America,</subfield>
+      <subfield code="c">©1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1041 p. ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The Library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Jonah's gourd vine -- Their eyes were watching God -- Moses, man of the mountain -- Seraph on the Suwanne -- Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Cuentos estadounidenses</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Novela estadounidense</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Afroamericanos</subfield>
+      <subfield code="x">Colecciones literarias.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Afroamericanos</subfield>
+      <subfield code="x">Vida social y costumbres</subfield>
+      <subfield code="x">Novela.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="650">
+      <subfield code="a">Cuentos estadounidenses</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="650">
+      <subfield code="a">Novela estadounidense</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="650">
+      <subfield code="a">Afroamericanos</subfield>
+      <subfield code="x">Colecciones literarias.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="650">
+      <subfield code="a">Afroamericanos</subfield>
+      <subfield code="x">Vida social y costumbres</subfield>
+      <subfield code="x">Novela.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">African Americans</subfield>
+      <subfield code="x">Social life and customs.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00799703</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">805696503</controlfield>
+    <controlfield tag="008">960725s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Library of America,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">p. cm</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="505">
+      <subfield code="a">Conté: Jonah's gourd vine -- Their eyes were watching God -- Moses, man of the mountain -- Seraph on the Suwanne -- Selected stories.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Dones en la literatura nord-americana.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="650">
+      <subfield code="a">Escriptores nord-americanes.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">885375733</controlfield>
+    <controlfield tag="008">990922s1995    nyu           000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston ; [Cheryl A. Wall selected the contents and wrote the notes for this vol.].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, N.Y :</subfield>
+      <subfield code="b">Literary Classics of the United States,</subfield>
+      <subfield code="c">©1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1041 Seiten ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">The library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Enth.: Jonah's gourd vine ; Their eyes were watching God ; Moses, man of the mountain ; Seraph on the Suwanee ; Selected stories.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wall, Cheryl A.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">716399350</controlfield>
+    <controlfield tag="008">950304s1995    nyu           000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston ; [Cheryl A. Wall selected the contents and wrote the notes for this volume].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Literary Classics of the United States,</subfield>
+      <subfield code="c">cop. 1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1041 p. ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The library of America ;</subfield>
+      <subfield code="v">74</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Contient: Jonah's gourd vine ; Their eyes were watching God ; Moses, man of the mountain ; Seraph on the suwanee ; Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">World War, 1939-1945</subfield>
+      <subfield code="v">Drama.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Drama.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423879</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wall, Cheryl A.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">917245672</controlfield>
+    <controlfield tag="008">021008s1995    nyu           000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0940450836</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780940450837</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Hurston, Zora Neale.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Novels and stories /</subfield>
+      <subfield code="c">Zora Neale Hurston ; Cheryl A. Wall selected the contents and wrote the notes for this volume.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Literary classics of the United States,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">[1145] pages ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The Library of America.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Jonah's gourd vine. -- Their eyes were watching God. -- Moses, man of the mountain. -- Seraph on the Suwanee. -- Selected stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">American literature, English</subfield>
+      <subfield code="x">Afro-Americans</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">African Americans in literature.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Wall, Cheryl A.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>11</nextRecordPosition>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.au="Zora Neale Hurston" and srw.ti="Novels and stories"</query>
+<maximumRecords>10</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>wVQoj0i338916DGL1mZNuAxYv3fpLh6XCkEGj09HDpRM1Ju5sphTkrTHuHCHbVnkytrmn1X1QuBZTMSJ</wskey>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
